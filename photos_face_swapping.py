@@ -12,10 +12,10 @@ def extract_index_nparray(nparray):
     return index
 
 
-img = cv2.imread("image5.jpg")
+img = cv2.imread("images/image5.jpg")
 img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 mask = np.zeros_like(img_gray)
-img2 = cv2.imread("srt.jpg")
+img2 = cv2.imread("images/srt.jpg")
 img2_gray = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
 
 
