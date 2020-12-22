@@ -1,0 +1,6 @@
+numpy
+opencv-python
+imutils
+selenium
+dlib
+matplotlib
