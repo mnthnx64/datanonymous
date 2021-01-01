@@ -1,7 +1,7 @@
 # Datanoymous
 
 Here is all the code that is used in the datanomyous project.
-Find the paper in Pseudonymization paper.pdf
+Find the publishing agreement for the springer series.
 
 ## Pre-Requisites
 - Python 3.6.8 or higher
